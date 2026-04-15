@@ -16,6 +16,7 @@ Este repositório pessoal organiza uma squad virtual para apoiar atuacao em tema
 │   ├── go-qa.agent.md
 │   ├── go-architect.agent.md
 │   ├── codebase-onboarding.agent.md
+│   ├── cloud-native-oss-contributor.agent.md
 │   ├── security-reviewer.agent.md
 │   ├── tech-writer.agent.md
 │   └── incident-analyzer.agent.md
@@ -212,6 +213,23 @@ Entrega principal:
 - Mapa de blocos principais e fluxos relevantes
 - Explicacao de protocolos, integracoes e dependencias criticas
 - Ordem sugerida de leitura para onboarding
+
+---
+
+### 13) Cloud Native OSS Contributor
+Arquivo: `agents/cloud-native-oss-contributor.agent.md`
+
+Quando usar:
+- Entender projetos open source em Go do ecossistema CNCF e Kubernetes
+- Mapear estrutura de repositorios cloud native e seus subsistemas
+- Traduzir issues em direcoes de solucao para bugs e novas features
+- Avaliar impacto arquitetural, compatibilidade e estrategia de contribuicao upstream
+
+Entrega principal:
+- Mapa estrutural do projeto e de seus pontos de extensao
+- Leitura tecnica da issue conectada ao codigo real
+- Instrucoes de solucao com profundidade staff+ de arquitetura e engenharia
+- Riscos, alternativas e validacao esperada para upstream
 
 ## Skill Disponivel
 
