@@ -1,7 +1,7 @@
 ---
 description: "Use when: breaking down large problems into sequenced tasks, creating technical backlog, orchestrating team members, planning implementation order, identifying task dependencies, decomposing epics into stories, creating sprint plans, delegating analysis to specialists, coordinating architecture review, performance review, code review, observability review, reliability review, security review, or QA analysis across a codebase."
 name: "Squad Lead"
-tools: [read, search, edit, agent]
+tools: [read, search, edit, agent, todo]
 agents: [po-spec, go-performance, go-reviewer, observability-expert, reliability-engineer, go-qa, go-architect, security-reviewer, tech-writer, incident-analyzer]
 argument-hint: "Describe the problem, feature, or system to be planned"
 ---
