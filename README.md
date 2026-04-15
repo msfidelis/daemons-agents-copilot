@@ -1,6 +1,6 @@
 # Virtual Squad Copilot - Guia de Agents e Workflows
 
-Este repositório pessoal organiza uma squad virtual para apoiar atuacao de Principal Engineer em temas de alta complexidade: arquitetura, resiliencia, performance, qualidade de codigo, observabilidade, seguranca e qualidade de testes.
+Este repositório pessoal organiza uma squad virtual para apoiar atuacao em temas de alta complexidade: arquitetura, resiliencia, performance, qualidade de codigo, observabilidade, seguranca e qualidade de testes.
 
 ## Estrutura
 
@@ -15,6 +15,7 @@ Este repositório pessoal organiza uma squad virtual para apoiar atuacao de Prin
 │   ├── reliability-engineer.agent.md
 │   ├── go-qa.agent.md
 │   ├── go-architect.agent.md
+│   ├── codebase-onboarding.agent.md
 │   ├── security-reviewer.agent.md
 │   ├── tech-writer.agent.md
 │   └── incident-analyzer.agent.md
@@ -193,6 +194,24 @@ Entrega principal:
 - Timeline estruturada
 - Causa imediata, fatores contribuintes e causa raiz
 - Action items com owner, prazo e prioridade
+
+---
+
+### 12) Codebase Onboarding Specialist
+Arquivo: `agents/codebase-onboarding.agent.md`
+
+Quando usar:
+- Entender rapidamente um repositorio desconhecido
+- Explicar logicas de implementacao e fluxos fim a fim
+- Mapear features para modulos, handlers, services e dependencias
+- Identificar protocolos, integracoes e pontos de entrada
+- Acelerar onboarding tecnico de novos engenheiros
+
+Entrega principal:
+- Visao geral do projeto orientada a execucao real
+- Mapa de blocos principais e fluxos relevantes
+- Explicacao de protocolos, integracoes e dependencias criticas
+- Ordem sugerida de leitura para onboarding
 
 ## Skill Disponivel
 
