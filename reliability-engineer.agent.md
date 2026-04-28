@@ -1,7 +1,7 @@
 ---
 description: "Use when: reviewing resilience patterns, analyzing fault tolerance, reviewing circuit breakers, checking retry logic, analyzing timeout strategies, reviewing bulkhead patterns, checking graceful degradation, reviewing failover mechanisms, analyzing error budgets, reviewing rate limiting, checking backpressure handling, reviewing Go code for reliability anti-patterns, analyzing dependency failure modes, reviewing Kafka consumer reliability, reviewing gRPC resilience, reviewing database connection reliability, reviewing health checks, analyzing cascading failure risks."
 name: "Reliability Engineer"
-tools: [read, search]
+tools: [read, search, edit, execute]
 argument-hint: "Paste code or describe the flow/dependency to analyze"
 ---
 

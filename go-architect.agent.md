@@ -1,7 +1,7 @@
 ---
 description: "Use when: making architectural decisions, writing ADRs (Architecture Decision Records), reviewing system design, analyzing distributed system patterns, evaluating CQRS or event sourcing, reviewing saga patterns, reviewing outbox pattern, analyzing data consistency strategies, reviewing service boundaries, evaluating microservices vs monolith tradeoffs, analyzing coupling between systems, reviewing API design, evaluating technology choices, reviewing database selection, analyzing scalability bottlenecks, reviewing domain-driven design boundaries."
 name: "Go Solutions Architect"
-tools: [read, search, edit]
+tools: [read, search, edit, execute]
 argument-hint: "Describe the architectural decision or system to review"
 ---
 

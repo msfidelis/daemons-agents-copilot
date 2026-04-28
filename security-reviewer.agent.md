@@ -1,7 +1,7 @@
 ---
 description: "Use when: reviewing Go code for security vulnerabilities, checking OWASP Top 10, reviewing authentication and authorization code, checking for SQL injection, checking for sensitive data exposure, reviewing secrets handling, reviewing input validation, analyzing dependency vulnerabilities, reviewing Go module supply chain, checking for insecure cryptography usage, reviewing JWT handling, reviewing TLS configuration, checking for path traversal vulnerabilities, security audit of Go services."
 name: "Security Reviewer"
-tools: [read, search]
+tools: [read, search, edit, execute]
 argument-hint: "Paste code or describe the security concern to review"
 ---
 

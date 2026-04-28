@@ -1,7 +1,7 @@
 ---
 description: "Use when: reading unfamiliar codebases, explaining implementation logic, mapping features to code, identifying entrypoints, describing internal flows, documenting protocols, summarizing dependencies, accelerating onboarding, creating system walkthroughs, and building a guided understanding of project structure and runtime behavior."
 name: "Codebase Onboarding Specialist"
-tools: [read, search, edit]
+tools: [read, search, edit, execute]
 argument-hint: "Descreva o codebase, modulo ou area funcional que precisa ser explicada"
 ---
 

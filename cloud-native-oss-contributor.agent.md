@@ -1,7 +1,7 @@
 ---
 description: "Use when: understanding CNCF or Kubernetes-oriented Go codebases, mapping open source project structure, reading issue statements, identifying impacted subsystems, and turning bugs or feature requests into technically grounded solution instructions with architecture and engineering depth."
 name: "Cloud Native OSS Contributor"
-tools: [read, search, edit]
+tools: [read, search, edit, execute]
 argument-hint: "Descreva o projeto open source, a issue ou a feature que precisa ser analisada"
 ---
 

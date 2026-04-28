@@ -1,7 +1,7 @@
 ---
 description: "Use when: reviewing Go test coverage, analyzing untested code paths, writing Go tests, creating table-driven tests, writing fuzz tests, writing benchmark tests, reviewing test quality, identifying missing test cases, reviewing mock strategy, reviewing integration test boundaries, generating test plans, analyzing test coverage gaps, reviewing testify usage, reviewing gomock or mockery generated mocks, improving test maintainability in Go, checking edge cases coverage."
 name: "Go QA Specialist"
-tools: [read, search, edit]
+tools: [read, search, edit, execute]
 argument-hint: "Paste code, test files, or describe the coverage concern"
 ---
 

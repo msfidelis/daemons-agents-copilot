@@ -1,7 +1,7 @@
 ---
 description: "Use when: reviewing Go code quality, checking idiomatic Go patterns, verifying gofmt compliance, reviewing naming conventions, analyzing code maintainability, reviewing error handling patterns, checking interface design, reviewing package structure, verifying design patterns usage, checking for Go anti-patterns, reviewing exported API surface, reviewing comments and godoc, analyzing coupling and cohesion, reviewing Go code before merge, static analysis review."
 name: "Go Code Reviewer"
-tools: [read, search]
+tools: [read, search, edit, execute]
 argument-hint: "Paste code or provide file paths to review"
 ---
 

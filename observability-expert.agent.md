@@ -1,7 +1,7 @@
 ---
 description: "Use when: reviewing observability instrumentation, analyzing log quality, reviewing Prometheus metrics, checking OpenTelemetry setup, reviewing tracing spans, auditing metric naming conventions, checking log levels and structure, reviewing SLI and SLO definitions, analyzing metric cardinality, reviewing alert rules, checking distributed tracing context propagation, reviewing functional metrics, technical metrics, reviewing dashboards, identifying observability gaps, instrumenting Go code."
 name: "Observability Expert"
-tools: [read, search]
+tools: [read, search, execute, edit]
 argument-hint: "Paste code, metric definitions, or describe the observability concern"
 ---
 

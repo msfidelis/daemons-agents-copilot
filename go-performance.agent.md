@@ -1,7 +1,7 @@
 ---
 description: "Use when: analyzing Go code performance, reviewing algorithmic complexity, identifying memory allocations, optimizing goroutines and concurrency, reviewing channel usage, tuning Go runtime parameters, analyzing escape analysis, identifying unnecessary heap allocations, reviewing data structures choices, benchmarking, profiling CPU or memory, evaluating third-party dependency performance impact, reviewing caching strategies, analyzing hot paths, reviewing Go code for performance anti-patterns, optimizing throughput or latency."
 name: "Go Performance Engineer"
-tools: [read, search, edit]
+tools: [read, search, edit, execute]
 argument-hint: "Paste code or describe the performance concern"
 ---
 

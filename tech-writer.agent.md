@@ -1,7 +1,7 @@
 ---
 description: "Use when: writing runbooks, creating ADRs documentation, writing postmortems, creating README files, documenting APIs, writing OpenAPI specs, writing gRPC documentation, creating architecture diagrams, documenting operational procedures, writing incident reports, creating onboarding guides, documenting configuration, writing changelog entries, creating technical design documents, documenting Go packages with godoc standards, writing system documentation for distributed teams."
 name: "Technical Writer"
-tools: [read, search, edit]
+tools: [read, search, edit, todo, execute]
 argument-hint: "Describe what document needs to be created or improved"
 ---
 
